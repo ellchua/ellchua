@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+- :desktop_computer: I'm currently a research assistant at the [Harmston Lab](https://harmstonlab.github.io/) in Yale-NUS College, Singapore
+- :dna: My current main project studies the genomic and mutational landscape of anaplastic astrocytoma
+- :globe_with_meridians: I volunteer at the [Bioinformatics Research Network](https://bio-net.dev/) to provide open-access bioinformatics training and project opportunities
+- 📫 How to reach me: [send me an 📧](mailto:ellora.chz@gmail.com)
+- 💬 Ask me about sport climbing outdoors 🧗‍♀️
 
 <!--
-**ellchua/ellchua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ellchua/ellchua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
