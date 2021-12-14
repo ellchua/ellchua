@@ -1,7 +1,7 @@
 ### Hello there 👋
-- :desktop_computer: I'm currently a research assistant at the [Harmston Lab](https://harmstonlab.github.io/) in Yale-NUS College, Singapore
+- :desktop_computer: I'm currently a research assistant at the [Harmston Lab](https://harmstonlab.github.io/){target="_blank"} in Yale-NUS College, Singapore
 - :dna: My current main project studies the genomic and mutational landscape of anaplastic astrocytoma
-- :globe_with_meridians: I volunteer at the [Bioinformatics Research Network](https://bio-net.dev/) to provide open-access bioinformatics training and project opportunities
+- :globe_with_meridians: I volunteer at the [Bioinformatics Research Network](https://bio-net.dev/){target="_blank"} to provide open-access bioinformatics training and project opportunities
 - 📫 How to reach me: [send me an 📧](mailto:ellora.chz@gmail.com)
 - 💬 Ask me about sport climbing outdoors 🧗‍♀️
 
