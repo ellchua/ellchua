@@ -3,7 +3,6 @@
 - :dna: My current main project studies the genomic and mutational landscape of anaplastic astrocytoma
 - :globe_with_meridians: I volunteer at the [Bioinformatics Research Network](https://bio-net.dev/) to provide open-access bioinformatics training and project opportunities
 - 📫 How to reach me: [send me an 📧](mailto:ellora.chz@gmail.com)
-- 💬 Ask me about sport climbing outdoors 🧗‍♀️
 
 <!--
 **ellchua/ellchua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
